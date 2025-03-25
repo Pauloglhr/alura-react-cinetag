@@ -1,6 +1,6 @@
-import { Titulo } from "../../components/Titulo";
 import { Banner } from "../../components/Banner";
-import { Card } from "../../components/Card";
+import Card from "../../components/Card";
+import Titulo from "../../components/Titulo";
 
 import videos from "../../db.json";
 import styles from "./Inicio.module.css";
